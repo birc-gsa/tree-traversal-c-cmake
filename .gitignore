@@ -1,13 +1,14 @@
-<<<<<<< HEAD
-checks.json
-=======
 CMakeCache.txt
 CMakeFiles/
 CTestTestfile.cmake
 Testing/
 cmake_install.cmake
 example
-    
+build
+checks.json
+.vscode
+
+
 # Prerequisites
 *.d
 
